@@ -1,0 +1,797 @@
+{
+  "last_update": null,
+  "processed_keywords": {
+    "Traditional selective breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:16.705685",
+      "videos_count": 50
+    },
+    "Landrace selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:18.357083",
+      "videos_count": 50
+    },
+    "Phenotypic selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:20.005897",
+      "videos_count": 50
+    },
+    "Pedigree breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:21.546125",
+      "videos_count": 50
+    },
+    "Mass selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:23.121181",
+      "videos_count": 50
+    },
+    "Clonal selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:24.811245",
+      "videos_count": 50
+    },
+    "Family selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:26.435969",
+      "videos_count": 50
+    },
+    "Open pollination in plant breeding": {
+      "processed_date": "2024-12-21T02:27:28.088872",
+      "videos_count": 50
+    },
+    "Hybridization techniques in plant breeding": {
+      "processed_date": "2024-12-21T02:27:29.753675",
+      "videos_count": 50
+    },
+    "Genetic diversity preservation in plant breeding": {
+      "processed_date": "2024-12-21T02:27:31.363315",
+      "videos_count": 50
+    },
+    "Crop domestication in plant breeding": {
+      "processed_date": "2024-12-21T02:27:32.984498",
+      "videos_count": 50
+    },
+    "Traditional farmer selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:34.548085",
+      "videos_count": 50
+    },
+    "Indigenous breeding methods in plant breeding": {
+      "processed_date": "2024-12-21T02:27:36.239945",
+      "videos_count": 50
+    },
+    "Germplasm conservation in plant breeding": {
+      "processed_date": "2024-12-21T02:27:37.786961",
+      "videos_count": 50
+    },
+    "Heritage crop breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:39.482909",
+      "videos_count": 50
+    },
+    "Regional adaptation breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:41.071572",
+      "videos_count": 50
+    },
+    "Cross-pollination techniques in plant breeding": {
+      "processed_date": "2024-12-21T02:27:42.732219",
+      "videos_count": 50
+    },
+    "Seed saving practices in plant breeding": {
+      "processed_date": "2024-12-21T02:27:44.364362",
+      "videos_count": 50
+    },
+    "Ancestral crop improvement in plant breeding": {
+      "processed_date": "2024-12-21T02:27:46.023255",
+      "videos_count": 50
+    },
+    "Wild relative breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:47.648264",
+      "videos_count": 50
+    },
+    "Traditional varietal selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:49.258641",
+      "videos_count": 50
+    },
+    "Local adaptation breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:50.800467",
+      "videos_count": 50
+    },
+    "Empirical crop selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:52.402905",
+      "videos_count": 50
+    },
+    "Population improvement in plant breeding": {
+      "processed_date": "2024-12-21T02:27:53.986813",
+      "videos_count": 50
+    },
+    "Traditional genetic diversity in plant breeding": {
+      "processed_date": "2024-12-21T02:27:55.635470",
+      "videos_count": 50
+    },
+    "Manual trait selection in plant breeding": {
+      "processed_date": "2024-12-21T02:27:57.200992",
+      "videos_count": 50
+    },
+    "Phenotype-based breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:27:58.750013",
+      "videos_count": 50
+    },
+    "Generational crop improvement in plant breeding": {
+      "processed_date": "2024-12-21T02:28:00.320327",
+      "videos_count": 50
+    },
+    "Agronomic performance selection in plant breeding": {
+      "processed_date": "2024-12-21T02:28:01.953083",
+      "videos_count": 50
+    },
+    "Community-based breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:03.576046",
+      "videos_count": 50
+    },
+    "Geographic adaptation in plant breeding": {
+      "processed_date": "2024-12-21T02:28:05.155596",
+      "videos_count": 50
+    },
+    "Reproductive isolation techniques in plant breeding": {
+      "processed_date": "2024-12-21T02:28:06.794469",
+      "videos_count": 50
+    },
+    "Evolutionary breeding approaches in plant breeding": {
+      "processed_date": "2024-12-21T02:28:08.356021",
+      "videos_count": 50
+    },
+    "Marker-assisted selection in plant breeding": {
+      "processed_date": "2024-12-21T02:28:09.973239",
+      "videos_count": 50
+    },
+    "Quantitative trait loci (QTL) mapping in plant breeding": {
+      "processed_date": "2024-12-21T02:28:11.628694",
+      "videos_count": 50
+    },
+    "Hybrid vigor breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:13.187222",
+      "videos_count": 50
+    },
+    "Backcross breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:14.787505",
+      "videos_count": 50
+    },
+    "Recurrent selection in plant breeding": {
+      "processed_date": "2024-12-21T02:28:16.405192",
+      "videos_count": 50
+    },
+    "Multiline breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:18.047154",
+      "videos_count": 50
+    },
+    "Heterosis breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:19.699498",
+      "videos_count": 50
+    },
+    "Advanced generation breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:28:21.219676",
+      "videos_count": 50
+    },
+    "Genome-wide selection in plant breeding": {
+      "processed_date": "2024-12-21T02:28:22.869825",
+      "videos_count": 50
+    },
+    "Phenotypic screening in plant breeding": {
+      "processed_date": "2024-12-21T02:28:24.502268",
+      "videos_count": 50
+    },
+    "Molecular marker development in plant breeding": {
+      "processed_date": "2024-12-21T02:28:26.119489",
+      "videos_count": 50
+    },
+    "Genetic diversity analysis in plant breeding": {
+      "processed_date": "2024-12-21T02:28:27.539633",
+      "videos_count": 50
+    },
+    "Performance testing in plant breeding": {
+      "processed_date": "2024-12-21T02:28:29.127136",
+      "videos_count": 50
+    },
+    "Trait introgression in plant breeding": {
+      "processed_date": "2024-12-21T02:28:30.716182",
+      "videos_count": 50
+    },
+    "Advanced breeding lines in plant breeding": {
+      "processed_date": "2024-12-21T02:28:32.262671",
+      "videos_count": 50
+    },
+    "Genetic variability assessment in plant breeding": {
+      "processed_date": "2024-12-21T02:28:33.829181",
+      "videos_count": 50
+    },
+    "Progeny testing in plant breeding": {
+      "processed_date": "2024-12-21T02:28:35.402107",
+      "videos_count": 50
+    },
+    "Breeding value estimation in plant breeding": {
+      "processed_date": "2024-12-21T02:28:37.094486",
+      "videos_count": 50
+    },
+    "Population genetics in plant breeding": {
+      "processed_date": "2024-12-21T02:28:38.645282",
+      "videos_count": 50
+    },
+    "Crop improvement strategies in plant breeding": {
+      "processed_date": "2024-12-21T02:28:40.274932",
+      "videos_count": 50
+    },
+    "Genetic gain prediction in plant breeding": {
+      "processed_date": "2024-12-21T02:28:41.899037",
+      "videos_count": 50
+    },
+    "Breeding program design in plant breeding": {
+      "processed_date": "2024-12-21T02:28:43.551592",
+      "videos_count": 50
+    },
+    "Genetic uniformity in plant breeding": {
+      "processed_date": "2024-12-21T02:28:45.153836",
+      "videos_count": 50
+    },
+    "Controlled pollination in plant breeding": {
+      "processed_date": "2024-12-21T02:28:46.747896",
+      "videos_count": 50
+    },
+    "Genetic resource management in plant breeding": {
+      "processed_date": "2024-12-21T02:28:48.389449",
+      "videos_count": 50
+    },
+    "Phenotypic plasticity in plant breeding": {
+      "processed_date": "2024-12-21T02:28:50.028729",
+      "videos_count": 50
+    },
+    "Breeding efficiency in plant breeding": {
+      "processed_date": "2024-12-21T02:28:51.736509",
+      "videos_count": 50
+    },
+    "Genetic complexity analysis in plant breeding": {
+      "processed_date": "2024-12-21T02:28:53.488952",
+      "videos_count": 50
+    },
+    "Reproductive biology in plant breeding": {
+      "processed_date": "2024-12-21T02:28:55.141592",
+      "videos_count": 50
+    },
+    "Crop adaptation mechanisms in plant breeding": {
+      "processed_date": "2024-12-21T02:28:56.762911",
+      "videos_count": 50
+    },
+    "Statistical genetics in plant breeding": {
+      "processed_date": "2024-12-21T02:28:58.386103",
+      "videos_count": 50
+    },
+    "Breeding methodology optimization in plant breeding": {
+      "processed_date": "2024-12-21T02:29:00.050895",
+      "videos_count": 50
+    },
+    "CRISPR gene editing in plant breeding": {
+      "processed_date": "2024-12-21T02:29:01.687228",
+      "videos_count": 50
+    },
+    "Genome sequencing in plant breeding": {
+      "processed_date": "2024-12-21T02:29:56.418756",
+      "videos_count": 50
+    },
+    "Precision breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:29:58.000798",
+      "videos_count": 50
+    },
+    "Synthetic biology in plant breeding": {
+      "processed_date": "2024-12-21T02:29:59.653958",
+      "videos_count": 50
+    },
+    "Gene network analysis in plant breeding": {
+      "processed_date": "2024-12-21T02:30:01.290464",
+      "videos_count": 50
+    },
+    "Metabolic engineering in plant breeding": {
+      "processed_date": "2024-12-21T02:30:02.924564",
+      "videos_count": 50
+    },
+    "Transgenic development in plant breeding": {
+      "processed_date": "2024-12-21T02:30:04.392195",
+      "videos_count": 50
+    },
+    "Next-generation sequencing in plant breeding": {
+      "processed_date": "2024-12-21T02:30:06.012873",
+      "videos_count": 50
+    },
+    "Epigenetic modification in plant breeding": {
+      "processed_date": "2024-12-21T02:30:07.589644",
+      "videos_count": 50
+    },
+    "Machine learning in plant breeding": {
+      "processed_date": "2024-12-21T02:30:09.071156",
+      "videos_count": 50
+    },
+    "Artificial intelligence prediction in plant breeding": {
+      "processed_date": "2024-12-21T02:30:10.592097",
+      "videos_count": 50
+    },
+    "RNA interference in plant breeding": {
+      "processed_date": "2024-12-21T02:30:12.114970",
+      "videos_count": 50
+    },
+    "Genome editing techniques in plant breeding": {
+      "processed_date": "2024-12-21T02:30:13.648790",
+      "videos_count": 50
+    },
+    "Advanced phenotyping in plant breeding": {
+      "processed_date": "2024-12-21T02:30:15.319567",
+      "videos_count": 50
+    },
+    "Computational breeding in plant breeding": {
+      "processed_date": "2024-12-21T02:30:16.852569",
+      "videos_count": 50
+    },
+    "Genomic selection in plant breeding": {
+      "processed_date": "2024-12-21T02:30:18.396940",
+      "videos_count": 50
+    },
+    "Metabolomics in plant breeding": {
+      "processed_date": "2024-12-21T02:30:20.049161",
+      "videos_count": 50
+    },
+    "Proteomics applications in plant breeding": {
+      "processed_date": "2024-12-21T02:30:21.657164",
+      "videos_count": 50
+    },
+    "Systems biology in plant breeding": {
+      "processed_date": "2024-12-21T02:30:23.232493",
+      "videos_count": 50
+    },
+    "Nano-biotechnology in plant breeding": {
+      "processed_date": "2024-12-21T02:30:24.760859",
+      "videos_count": 50
+    },
+    "Digital phenotyping in plant breeding": {
+      "processed_date": "2024-12-21T02:30:26.380688",
+      "videos_count": 50
+    },
+    "Advanced genetic transformation in plant breeding": {
+      "processed_date": "2024-12-21T02:30:27.891179",
+      "videos_count": 50
+    },
+    "Classical resistance breeding in plant breeding": {
+      "processed_date": "2024-12-22T21:24:17.040598",
+      "videos_count": 50
+    },
+    "Molecular breeding platforms in plant breeding": {
+      "processed_date": "2024-12-22T21:24:18.803660",
+      "videos_count": 50
+    },
+    "Genome-wide association studies in plant breeding": {
+      "processed_date": "2024-12-22T21:24:20.437891",
+      "videos_count": 50
+    },
+    "Synthetic genomics in plant breeding": {
+      "processed_date": "2024-12-22T21:24:22.161553",
+      "videos_count": 50
+    },
+    "Predictive breeding models in plant breeding": {
+      "processed_date": "2024-12-22T21:24:23.829251",
+      "videos_count": 50
+    },
+    "High-throughput screening in plant breeding": {
+      "processed_date": "2024-12-22T21:24:25.542864",
+      "videos_count": 50
+    },
+    "Gene regulatory network in plant breeding": {
+      "processed_date": "2024-12-22T21:24:27.306644",
+      "videos_count": 50
+    },
+    "Advanced trait mapping in plant breeding": {
+      "processed_date": "2024-12-22T21:24:28.954532",
+      "videos_count": 50
+    },
+    "Computational genomics in plant breeding": {
+      "processed_date": "2024-12-22T21:24:30.651466",
+      "videos_count": 50
+    },
+    "Climate-resilient breeding in plant breeding": {
+      "processed_date": "2024-12-22T21:24:32.453075",
+      "videos_count": 50
+    },
+    "Precision agriculture technologies in plant breeding": {
+      "processed_date": "2024-12-22T21:24:34.075456",
+      "videos_count": 50
+    },
+    "Adaptive breeding strategies in plant breeding": {
+      "processed_date": "2024-12-22T21:24:35.744794",
+      "videos_count": 50
+    },
+    "Reciprocal recurrent selection in plant breeding": {
+      "processed_date": "2024-12-24T18:49:12.335255",
+      "videos_count": 50
+    },
+    "Line breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:14.075281",
+      "videos_count": 50
+    },
+    "Composite crossing in plant breeding": {
+      "processed_date": "2024-12-24T18:49:15.767144",
+      "videos_count": 50
+    },
+    "Mass-pedigree method in plant breeding": {
+      "processed_date": "2024-12-24T18:49:17.538472",
+      "videos_count": 50
+    },
+    "Diallel crossing in plant breeding": {
+      "processed_date": "2024-12-24T18:49:19.293697",
+      "videos_count": 50
+    },
+    "Synthetic variety breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:20.952500",
+      "videos_count": 50
+    },
+    "Bulk population method in plant breeding": {
+      "processed_date": "2024-12-24T18:49:22.645296",
+      "videos_count": 50
+    },
+    "Traditional crop rotation effects in plant breeding": {
+      "processed_date": "2024-12-24T18:49:24.334337",
+      "videos_count": 50
+    },
+    "Monoculture improvement in plant breeding": {
+      "processed_date": "2024-12-24T18:49:26.037833",
+      "videos_count": 50
+    },
+    "Natural trait segregation in plant breeding": {
+      "processed_date": "2024-12-24T18:49:27.767551",
+      "videos_count": 50
+    },
+    "Seedbed selection in plant breeding": {
+      "processed_date": "2024-12-24T18:49:29.519054",
+      "videos_count": 50
+    },
+    "Pure-line selection in plant breeding": {
+      "processed_date": "2024-12-24T18:49:31.282655",
+      "videos_count": 50
+    },
+    "Hardy-Weinberg principle in plant breeding": {
+      "processed_date": "2024-12-24T18:49:33.003409",
+      "videos_count": 50
+    },
+    "Traditional soil suitability tests in plant breeding": {
+      "processed_date": "2024-12-24T18:49:34.744149",
+      "videos_count": 50
+    },
+    "Indigenous pest resistance breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:36.599802",
+      "videos_count": 50
+    },
+    "Farmer-participatory breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:38.292576",
+      "videos_count": 50
+    },
+    "In situ conservation breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:40.016262",
+      "videos_count": 50
+    },
+    "Traditional field trials in plant breeding": {
+      "processed_date": "2024-12-24T18:49:41.711102",
+      "videos_count": 50
+    },
+    "Manual self-pollination techniques in plant breeding": {
+      "processed_date": "2024-12-24T18:49:43.379762",
+      "videos_count": 50
+    },
+    "Natural outcrossing studies in plant breeding": {
+      "processed_date": "2024-12-24T18:49:45.187072",
+      "videos_count": 50
+    },
+    "Selective pressure analysis in plant breeding": {
+      "processed_date": "2024-12-24T18:49:46.927607",
+      "videos_count": 50
+    },
+    "Regional cropping system adaptation in plant breeding": {
+      "processed_date": "2024-12-24T18:49:48.674671",
+      "videos_count": 50
+    },
+    "Propagation techniques in plant breeding": {
+      "processed_date": "2024-12-24T18:49:50.363229",
+      "videos_count": 50
+    },
+    "Ancient grain breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:51.939958",
+      "videos_count": 50
+    },
+    "Local seed exchange practices in plant breeding": {
+      "processed_date": "2024-12-24T18:49:53.584917",
+      "videos_count": 50
+    },
+    "Historical agronomic practices in plant breeding": {
+      "processed_date": "2024-12-24T18:49:55.327418",
+      "videos_count": 50
+    },
+    "Subsistence crop breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:49:57.069996",
+      "videos_count": 50
+    },
+    "Folk selection methods in plant breeding": {
+      "processed_date": "2024-12-24T18:49:58.816210",
+      "videos_count": 50
+    },
+    "Landrace improvement cycles in plant breeding": {
+      "processed_date": "2024-12-24T18:50:00.531890",
+      "videos_count": 50
+    },
+    "Regional biotic stress breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:02.218427",
+      "videos_count": 50
+    },
+    "Crop resilience through generations in plant breeding": {
+      "processed_date": "2024-12-24T18:50:04.042014",
+      "videos_count": 50
+    },
+    "Traditional soil fertility management in plant breeding": {
+      "processed_date": "2024-12-24T18:50:05.683474",
+      "videos_count": 50
+    },
+    "Traditional drought tolerance breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:07.364595",
+      "videos_count": 50
+    },
+    "Genomic in situ hybridization (GISH) in plant breeding": {
+      "processed_date": "2024-12-24T18:50:09.162669",
+      "videos_count": 50
+    },
+    "Haploidy induction in plant breeding": {
+      "processed_date": "2024-12-24T18:50:10.886284",
+      "videos_count": 50
+    },
+    "Bi-parental mapping populations in plant breeding": {
+      "processed_date": "2024-12-24T18:50:12.586443",
+      "videos_count": 50
+    },
+    "Multi-parental breeding approaches in plant breeding": {
+      "processed_date": "2024-12-24T18:50:14.485963",
+      "videos_count": 50
+    },
+    "Doubled haploid technology in plant breeding": {
+      "processed_date": "2024-12-24T18:50:16.247041",
+      "videos_count": 50
+    },
+    "Epistasis analysis in plant breeding": {
+      "processed_date": "2024-12-24T18:50:18.069830",
+      "videos_count": 50
+    },
+    "Trait stacking in plant breeding": {
+      "processed_date": "2024-12-24T18:50:19.803654",
+      "videos_count": 50
+    },
+    "Transcriptomics in plant breeding": {
+      "processed_date": "2024-12-24T18:50:21.449961",
+      "videos_count": 50
+    },
+    "Isozyme markers in plant breeding": {
+      "processed_date": "2024-12-24T18:50:23.098453",
+      "videos_count": 50
+    },
+    "Breeding for disease resistance in plant breeding": {
+      "processed_date": "2024-12-24T18:50:24.837961",
+      "videos_count": 50
+    },
+    "DArT marker technology in plant breeding": {
+      "processed_date": "2024-12-24T18:50:26.589156",
+      "videos_count": 50
+    },
+    "AFLP marker systems in plant breeding": {
+      "processed_date": "2024-12-24T18:50:28.416359",
+      "videos_count": 50
+    },
+    "SNP genotyping in plant breeding": {
+      "processed_date": "2024-12-24T18:50:30.130233",
+      "videos_count": 50
+    },
+    "Biochemical marker-assisted breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:31.878294",
+      "videos_count": 50
+    },
+    "Marker-based recurrent selection in plant breeding": {
+      "processed_date": "2024-12-24T18:50:33.626912",
+      "videos_count": 50
+    },
+    "Breeding for yield stability in plant breeding": {
+      "processed_date": "2024-12-24T18:50:35.374692",
+      "videos_count": 50
+    },
+    "Abiotic stress tolerance breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:37.111064",
+      "videos_count": 50
+    },
+    "Pre-breeding programs in plant breeding": {
+      "processed_date": "2024-12-24T18:50:38.963529",
+      "videos_count": 50
+    },
+    "Crop modeling integration in plant breeding": {
+      "processed_date": "2024-12-24T18:50:40.625402",
+      "videos_count": 50
+    },
+    "Germplasm enhancement in plant breeding": {
+      "processed_date": "2024-12-24T18:50:42.236307",
+      "videos_count": 50
+    },
+    "Controlled environment breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:44.100377",
+      "videos_count": 50
+    },
+    "Speed breeding protocols in plant breeding": {
+      "processed_date": "2024-12-24T18:50:45.791054",
+      "videos_count": 50
+    },
+    "High-yield variety development in plant breeding": {
+      "processed_date": "2024-12-24T18:50:47.667655",
+      "videos_count": 50
+    },
+    "Disease-resistance introgression in plant breeding": {
+      "processed_date": "2024-12-24T18:50:49.305321",
+      "videos_count": 50
+    },
+    "Fusarium wilt tolerance breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:50.988838",
+      "videos_count": 50
+    },
+    "High-oil content breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:50:52.795372",
+      "videos_count": 50
+    },
+    "MABC (Marker-Assisted Backcrossing) in plant breeding": {
+      "processed_date": "2024-12-24T18:50:54.240078",
+      "videos_count": 50
+    },
+    "Field trial optimization in plant breeding": {
+      "processed_date": "2024-12-24T18:50:56.038347",
+      "videos_count": 50
+    },
+    "Regional trait evaluation in plant breeding": {
+      "processed_date": "2024-12-24T18:50:57.656767",
+      "videos_count": 50
+    },
+    "Statistical QTL analysis in plant breeding": {
+      "processed_date": "2024-12-24T18:50:59.307693",
+      "videos_count": 50
+    },
+    "Breeding for micronutrient density in plant breeding": {
+      "processed_date": "2024-12-24T18:51:00.948745",
+      "videos_count": 50
+    },
+    "Controlled hybrid seed production in plant breeding": {
+      "processed_date": "2024-12-24T18:51:02.625836",
+      "videos_count": 50
+    },
+    "Genotypic adaptability analysis in plant breeding": {
+      "processed_date": "2024-12-24T18:51:04.211740",
+      "videos_count": 50
+    },
+    "CRISPR-Cas9 delivery systems in plant breeding": {
+      "processed_date": "2024-12-24T18:53:02.838456",
+      "videos_count": 50
+    },
+    "Pangenomics in plant breeding": {
+      "processed_date": "2024-12-24T18:53:04.538196",
+      "videos_count": 50
+    },
+    "Hologenomics in plant breeding": {
+      "processed_date": "2024-12-24T18:53:06.217369",
+      "videos_count": 50
+    },
+    "Digital twin modeling in plant breeding": {
+      "processed_date": "2024-12-24T18:53:08.058058",
+      "videos_count": 50
+    },
+    "Epigenome-wide association studies in plant breeding": {
+      "processed_date": "2024-12-24T18:53:09.813762",
+      "videos_count": 50
+    },
+    "Single-cell sequencing in plant breeding": {
+      "processed_date": "2024-12-24T18:53:11.633471",
+      "videos_count": 50
+    },
+    "Multi-omics integration in plant breeding": {
+      "processed_date": "2024-12-24T18:53:13.382616",
+      "videos_count": 50
+    },
+    "Deep learning for trait prediction in plant breeding": {
+      "processed_date": "2024-12-24T18:53:15.276367",
+      "videos_count": 50
+    },
+    "Blockchain for seed traceability in plant breeding": {
+      "processed_date": "2024-12-24T18:53:17.097241",
+      "videos_count": 50
+    },
+    "Sensor-based phenotyping in plant breeding": {
+      "processed_date": "2024-12-24T18:53:19.036287",
+      "videos_count": 50
+    },
+    "Quantum computing in plant breeding": {
+      "processed_date": "2024-12-24T18:53:20.755406",
+      "videos_count": 50
+    },
+    "Virtual reality applications in plant breeding": {
+      "processed_date": "2024-12-24T18:53:22.538191",
+      "videos_count": 50
+    },
+    "Synthetic promoter engineering in plant breeding": {
+      "processed_date": "2024-12-24T18:53:24.445174",
+      "videos_count": 50
+    },
+    "Biostimulant-driven breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:26.265575",
+      "videos_count": 50
+    },
+    "Photosynthetic efficiency optimization in plant breeding": {
+      "processed_date": "2024-12-24T18:53:28.035462",
+      "videos_count": 50
+    },
+    "AI-based genome annotation in plant breeding": {
+      "processed_date": "2024-12-24T18:53:29.887775",
+      "videos_count": 50
+    },
+    "Cellular reprogramming in plant breeding": {
+      "processed_date": "2024-12-24T18:53:31.615084",
+      "videos_count": 50
+    },
+    "Carbon sequestration traits breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:33.316390",
+      "videos_count": 50
+    },
+    "Eco-genomics in plant breeding": {
+      "processed_date": "2024-12-24T18:53:34.984820",
+      "videos_count": 50
+    },
+    "Functional metagenomics in plant breeding": {
+      "processed_date": "2024-12-24T18:53:36.752252",
+      "videos_count": 50
+    },
+    "Robotic phenotyping in plant breeding": {
+      "processed_date": "2024-12-24T18:53:38.585906",
+      "videos_count": 50
+    },
+    "Non-coding RNA studies in plant breeding": {
+      "processed_date": "2024-12-24T18:53:40.423181",
+      "videos_count": 50
+    },
+    "Microbiome-assisted breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:42.189245",
+      "videos_count": 50
+    },
+    "Advanced chloroplast transformation in plant breeding": {
+      "processed_date": "2024-12-24T18:53:43.855443",
+      "videos_count": 50
+    },
+    "Pathogenomics applications in plant breeding": {
+      "processed_date": "2024-12-24T18:53:45.325573",
+      "videos_count": 32
+    },
+    "Environmental DNA (eDNA) in plant breeding": {
+      "processed_date": "2024-12-24T18:53:47.117759",
+      "videos_count": 50
+    },
+    "Autonomous breeding programs in plant breeding": {
+      "processed_date": "2024-12-24T18:53:48.719069",
+      "videos_count": 50
+    },
+    "Thermo-tolerance breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:50.509328",
+      "videos_count": 50
+    },
+    "Urban crop development in plant breeding": {
+      "processed_date": "2024-12-24T18:53:52.324149",
+      "videos_count": 50
+    },
+    "Biodegradable agro-inputs breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:54.053855",
+      "videos_count": 50
+    },
+    "Real-time molecular diagnostics in plant breeding": {
+      "processed_date": "2024-12-24T18:53:55.887304",
+      "videos_count": 50
+    },
+    "Holistic systems breeding in plant breeding": {
+      "processed_date": "2024-12-24T18:53:57.626422",
+      "videos_count": 50
+    },
+    "Predictive climate modeling in plant breeding": {
+      "processed_date": "2024-12-24T18:53:59.474532",
+      "videos_count": 50
+    }
+  }
+}
