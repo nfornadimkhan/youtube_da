@@ -1,0 +1,5 @@
+#!/bin/sh
+if git diff --cached | grep -q "AIzaSy"; then
+    echo "WARNING: Potential API key in commit"
+    exit 1
+fi 

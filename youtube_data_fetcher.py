@@ -1,11 +1,15 @@
+import os
+from dotenv import load_dotenv
 import pandas as pd
 from googleapiclient.discovery import build
 import json
-import os
 from datetime import datetime
 import time
 import isodate
 import logging
+
+# Load environment variables
+load_dotenv()
 
 # Set up logging
 logging.basicConfig(
@@ -14,7 +18,10 @@ logging.basicConfig(
 )
 
 # Constants
-API_KEY = 'REMOVED_API_KEY'  # Replace with your actual YouTube API key
+API_KEY = os.getenv('YOUTUBE_API_KEY')
+if not API_KEY:
+    raise ValueError("YouTube API key not found in environment variables")
+
 QUOTA_COST = {
     'search': 100,
     'videos': 1

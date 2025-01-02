@@ -1,0 +1,23 @@
+# API and Data Handling
+google-api-python-client==2.88.0
+python-dotenv==1.0.0
+pandas==2.0.0
+numpy==1.24.3
+isodate==0.6.1
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.14.1
+
+# Machine Learning and NLP
+scikit-learn==1.2.2
+nltk==3.8.1
+vaderSentiment==3.3.2
+
+# Dashboard
+streamlit==1.22.0
+
+# Data Processing
+python-dateutil==2.8.2
+pytz==2023.3

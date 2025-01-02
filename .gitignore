@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data directories
+youtube_data/
+*.csv
+
+# State files
+fetch_state.json 
